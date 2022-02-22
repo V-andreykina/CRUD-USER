@@ -1,5 +1,9 @@
 # CRUD-USER
 ---
-**Creating and modifying a user**
+1.Creating a new user
 
-[https://petstore.swagger.io/]
+2.Modifying information about a user
+
+3.Deleting a user
+
+[Link](https://petstore.swagger.io/)
